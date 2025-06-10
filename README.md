@@ -124,6 +124,3 @@ The system generates intelligent insights using both OpenAI and Google Gemini AP
 3. Configure environment: Copy `.env.example` to `.env`
 4. Start server: `npm start`
 
-## License
-
-MIT License
